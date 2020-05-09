@@ -11,7 +11,7 @@ HIGH SCHOOL INVOLVEMENT:
 ```
 IMAGES OF Grain Valley
 ```
-[Grain Valley](GVHS1.jpg)
+![Grain Valley](GVHS1.jpg)
 ![Grain Valley](GVHS2.jpg)
 ![Grain Valley](GVHS3.jpg)
 ![Grain Valley](GVHS4.jpg)
