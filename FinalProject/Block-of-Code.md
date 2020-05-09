@@ -20,4 +20,4 @@ painter.right(40)
 
 turtle.done()
 
-##### [5 Things to Know about Ethan](5-Random-Facts-About-Jazzmyn.md)
+##### [5 Things to Know about Ethan](5-Things-to-know-About-Ethan.md)
