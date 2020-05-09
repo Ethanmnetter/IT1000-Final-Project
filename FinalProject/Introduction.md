@@ -11,11 +11,11 @@ HIGH SCHOOL INVOLVEMENT:
 ```
 IMAGES OF Grain Valley
 ```
-![Grain Valley](https://www.google.com/search?q=grain+valley+high+school&client=firefox-b-1-d&hl=en&sxsrf=ALeKk03ndrnakzqbOnD89mOCS4EQ1E0IEQ:1588829366526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoiYDQgqHpAhVPVc0KHRTbD1YQ_AUoAnoECBQQBA&biw=1536&bih=750#imgrc=EggxqQcOwbjkFM)
-![Grain Valley](https://www.google.com/search?q=grain+valley+high+school&client=firefox-b-1-d&hl=en&sxsrf=ALeKk03ndrnakzqbOnD89mOCS4EQ1E0IEQ:1588829366526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoiYDQgqHpAhVPVc0KHRTbD1YQ_AUoAnoECBQQBA&biw=1536&bih=750#imgrc=lKqTpiEFu5GcmM)
-![Grain Valley](https://www.google.com/search?q=grain+valley+high+school&client=firefox-b-1-d&hl=en&sxsrf=ALeKk03ndrnakzqbOnD89mOCS4EQ1E0IEQ:1588829366526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoiYDQgqHpAhVPVc0KHRTbD1YQ_AUoAnoECBQQBA&biw=1536&bih=750#imgrc=nUjTuRlr1WKD-M)
-![Grain Valley](https://www.google.com/search?q=grain+valley+high+school&client=firefox-b-1-d&hl=en&sxsrf=ALeKk03ndrnakzqbOnD89mOCS4EQ1E0IEQ:1588829366526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoiYDQgqHpAhVPVc0KHRTbD1YQ_AUoAnoECBQQBA&biw=1536&bih=750#imgrc=3d0kQMI7hni83M)
-![Grain Valley](https://www.google.com/search?q=grain+valley+high+school&client=firefox-b-1-d&hl=en&sxsrf=ALeKk03ndrnakzqbOnD89mOCS4EQ1E0IEQ:1588829366526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoiYDQgqHpAhVPVc0KHRTbD1YQ_AUoAnoECBQQBA&biw=1536&bih=750#imgrc=w7zvShKTv5iA_M)
-![Grain Valley](https://www.google.com/search?q=grain+valley+high+school&client=firefox-b-1-d&hl=en&sxsrf=ALeKk03ndrnakzqbOnD89mOCS4EQ1E0IEQ:1588829366526&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoiYDQgqHpAhVPVc0KHRTbD1YQ_AUoAnoECBQQBA&biw=1536&bih=750#imgrc=na9zSR7d5T8UBM)
+[Grain Valley](GVHS1.jpg)
+![Grain Valley](GVHS2.jpg)
+![Grain Valley](GVHS3.jpg)
+![Grain Valley](GVHS4.jpg)
+![Grain Valley](GVHS5.jpg)
+![Grain Valley](GVHS6.jpg)
 
 ##### [Block of Code](Block-of-Code.md)
